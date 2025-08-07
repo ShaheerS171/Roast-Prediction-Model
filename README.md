@@ -24,9 +24,9 @@ A machine learning-powered web app that classifies text as a **roast** or **norm
 
 ### 🔥 Roast:
 > *"You're not stupid — you just have bad luck thinking."*
-
+> *"Could you please help me with this task?"*
 ### ✅ Normal:
-> *"Hope you're doing well today."*
+> 
 
 ---
 
